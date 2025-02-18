@@ -38,8 +38,9 @@ python analysis.py
 ```
 
 ## Example Visualizations
-![MSFT Closing Price Trend](images/closing_price.png)
-![MSFT Volatility](images/volatility.png)
+![MSFT Closing Price Trend]("C:\Users\rohit\Downloads\microsoft\Volatility.png")
+![MSFT Volatility](![Closing price](https://github.com/user-attachments/assets/d20c8c1f-222a-4ffa-b1bb-a9df0f6a0a39)
+)
 
 ## Data Source
 - Historical stock data retrieved from [Yahoo Finance](https://finance.yahoo.com/quote/MSFT/history).
