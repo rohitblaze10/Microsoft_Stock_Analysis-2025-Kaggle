@@ -38,7 +38,8 @@ python analysis.py
 ```
 
 ## Example Visualizations
-![MSFT Closing Price Trend]("C:\Users\rohit\Downloads\microsoft\Volatility.png")
+![MSFT Closing Price Trend]("![Volatility](https://github.com/user-attachments/assets/f281d6f5-0d99-4fba-9e58-7d4fce21243b)
+")
 ![MSFT Volatility](![Closing price](https://github.com/user-attachments/assets/d20c8c1f-222a-4ffa-b1bb-a9df0f6a0a39)
 )
 
