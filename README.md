@@ -14,7 +14,7 @@ This project provides a comprehensive analysis of Microsoft's (MSFT) stock data 
   - Candlestick charts using Plotly
 - **Advanced Analysis**:
   - Rolling volatility
-  - Stock returns and distribution
+  - Stock returns and distribution.
 
 ## Technologies Used
 - **Python**
