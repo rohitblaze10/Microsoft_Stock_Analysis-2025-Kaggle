@@ -26,7 +26,7 @@ This project provides a comprehensive analysis of Microsoft's (MSFT) stock data 
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/msft-stock-analysis.git
+git clone https://github.com/rohitblaze10/msft-stock-analysis.git
 cd msft-stock-analysis
 pip install -r requirements.txt
 ```
